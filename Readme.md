@@ -86,7 +86,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enigma-101&show_icons=true&locale=en&layout=compact&theme=calm" alt="enigma-101 languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=enigma-101&theme=calm" alt="enigma-101 streak" />
+  <img src="https://streak-stats.demolab.com?user=ENiGMA-101&theme=calm" alt="ENiGMA-101 recent streak" />
 </p>
 
 ---
