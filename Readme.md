@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enigma-101&theme=algolia&margin-w=15&margin-h=15" alt="enigma-101 trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=enigma-101&theme=calm&margin-w=15&margin-h=15" alt="enigma-101 trophies" />
   </a>
 </p>
 
@@ -80,13 +80,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enigma-101&show_icons=true&theme=algolia&locale=en" alt="enigma-101" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enigma-101&show_icons=true&theme=calm&locale=en" alt="enigma-101" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enigma-101&show_icons=true&locale=en&layout=compact&theme=algolia" alt="enigma-101 languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enigma-101&show_icons=true&locale=en&layout=compact&theme=calm" alt="enigma-101 languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigma-101&theme=algolia" alt="enigma-101 streak" />
+  <img src="https://streak-stats.demolab.com/?user=enigma-101&theme=calm" alt="enigma-101 streak" />
 </p>
 
 ---
