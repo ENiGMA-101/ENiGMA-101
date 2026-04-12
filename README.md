@@ -25,7 +25,7 @@ Theme: Neon / Cyber (unique layout + colors)
 ---
 
 ## About me
-- I’m **ENiGMA-101** — I like building practical projects and improving fundamentals.
+- I’m **Hamdil Hasan** — I like building practical projects and improving fundamentals.
 - Interests: **Web Development**, **Python**, **Databases**, and clean UI.
 - Open to: **collaboration**, **learning in public**, and project-based growth.
 
@@ -55,17 +55,7 @@ Theme: Neon / Cyber (unique layout + colors)
 
 ---
 
-## Featured developer extras
-### 1) Pinned projects (manual)
-Pin your best repos via GitHub → **Profile → Customize your pins**.
-
-### 2) Weekly coding snapshot
-<!-- Works automatically; shows a breakdown based on recent activity -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENiGMA-101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
----
-
-## GitHub Metrics (does NOT reset your stats)
+## GitHub Metrics
 <div align="center">
 
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ENiGMA-101&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
