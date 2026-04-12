@@ -9,7 +9,7 @@ Theme: Neon / Cyber (unique layout + colors)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:22c55e&height=210&section=header&text=ENiGMA-101&fontSize=55&fontAlignY=35&desc=Build.%20Break.%20Learn.%20Ship.&descAlignY=58&animation=twinkling" />
 
   <!-- Typing line (different wording + style vs reference) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Hamdil Hasan;Aspiring+Developer+%7C+Always+learning.;Web+%2B+Python+%2B+Databases+%2B+UI%2FUX.;Turning+ideas+into+projects+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Hamdil+Hasan;Aspiring+Developer+%7C+Always+learning.;Web+%2B+Python+%2B+Databases+%2B+UI%2FUX.;Turning+ideas+into+projects+one+commit+at+a+time." alt="Typing SVG" />
 
   <br/><br/>
 
