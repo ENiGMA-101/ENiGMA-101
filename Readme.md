@@ -1,97 +1,119 @@
-<h1 align="center">Hi 👋, I'm Hamdil Hasan</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enigma-101&label=Profile%20views&color=0e75b6&style=flat" alt="enigma-101" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=enigma-101&theme=calm&margin-w=15&margin-h=15" alt="enigma-101 trophies" />
-  </a>
-</p>
-
-<!-- Socials (add your real links below) -->
-<p align="center">
-  <a href="https://linkedin.com/in/hamdil-hasan-p101" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/im_jOMiD4R_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <!-- Add more socials as needed -->
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🌱 I’m currently learning **React, TypeScript, and Next.js**
-- 💬 Ask me about **Frontend development, React, or UI/UX**
-- 📫 How to reach me: **hamdilhasan101@gmail.com**
-- ⚡ Fun fact: I love to solve coding challenges and design user-centric interfaces!
-
----
-
-### 🎯 Goals
-
-- 🚀 To become a highly skilled and innovative Frontend Engineer.
-- 🛠️ Build beautiful, scalable, and accessible web applications.
-- 💡 Contribute to open source communities and collaborate on impactful projects.
-- 🌏 Stay up to date with the latest trends and technologies in web development.
-- 🧑‍🤝‍🧑 Mentor aspiring developers and share knowledge through blogs and talks.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enigma-101&show_icons=true&theme=calm&locale=en" alt="enigma-101" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enigma-101&show_icons=true&locale=en&layout=compact&theme=calm" alt="enigma-101 languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ENiGMA-101&theme=calm" alt="ENiGMA-101 recent streak" />
-</p>
-
----
-
 <!--
-**ENiGMA-101/ENiGMA-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Profile README for: ENiGMA-101
+Theme: Neon / Cyber (unique layout + colors)
 -->
+
+<div align="center">
+
+  <!-- Header / Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:22c55e&height=210&section=header&text=ENiGMA-101&fontSize=55&fontAlignY=35&desc=Build.%20Break.%20Learn.%20Ship.&descAlignY=58&animation=twinkling" />
+
+  <!-- Typing line (different wording + style vs reference) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+ENiGMA-101.;Aspiring+Developer+%7C+Always+learning.;Web+%2B+Python+%2B+Databases+%2B+UI%2FUX.;Turning+ideas+into+projects+one+commit+at+a+time." alt="Typing SVG" />
+
+  <br/><br/>
+
+  <!-- Quick badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Consistency-22c55e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Theme-Neon_Cyber-8b5cf6?style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=ENiGMA-101&style=for-the-badge&color=0ea5e9" alt="profile views" />
+  </p>
+
+</div>
+
+---
+
+## About me
+- I’m **ENiGMA-101** — I like building practical projects and improving fundamentals.
+- Interests: **Web Development**, **Python**, **Databases**, and clean UI.
+- Open to: **collaboration**, **learning in public**, and project-based growth.
+
+> **Current goal:** ship small, useful projects regularly and keep leveling up.
+
+---
+
+## Tech Stack (primary)
+<div align="center">
+
+  <!-- “Skill icons” row (different from reference: no duplicate shields + icons mix) -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,java,mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## Toolbox (what I use)
+<div align="left">
+
+- **Editors/IDEs:** VS Code, (optional) IntelliJ / Eclipse  
+- **Design:** Figma, Canva  
+- **Workflow:** Git + GitHub, README tooling, project-based learning  
+- **Habits:** clean commits, readable docs, consistent practice  
+
+</div>
+
+---
+
+## Featured developer extras
+### 1) Pinned projects (manual)
+Pin your best repos via GitHub → **Profile → Customize your pins**.
+
+### 2) Weekly coding snapshot
+<!-- Works automatically; shows a breakdown based on recent activity -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENiGMA-101&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+---
+
+## GitHub Metrics (does NOT reset your stats)
+<div align="center">
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ENiGMA-101&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=ENiGMA-101&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  <!-- Activity graph with a different palette than reference -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ENiGMA-101&bg_color=0b1220&color=38bdf8&line=8b5cf6&point=22c55e&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+---
+
+## Achievements
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ENiGMA-101&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
+
+</div>
+
+---
+
+## A quote I like
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+
+</div>
+
+---
+
+## Contribution Snake (optional but looks great)
+> This requires a GitHub Action to generate the SVG into an `output/` branch.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ENiGMA-101/ENiGMA-101/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ENiGMA-101/ENiGMA-101/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ENiGMA-101/ENiGMA-101/output/github-snake.svg" />
+</picture>
+
+---
+
+<div align="center">
+
+  <!-- Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:8b5cf6,100:0ea5e9&height=140&section=footer" />
+
+</div>
