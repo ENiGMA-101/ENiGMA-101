@@ -9,7 +9,7 @@ Theme: Neon / Cyber (unique layout + colors)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:8b5cf6,100:22c55e&height=210&section=header&text=ENiGMA-101&fontSize=55&fontAlignY=35&desc=Build.%20Break.%20Learn.%20Ship.&descAlignY=58&animation=twinkling" />
 
   <!-- Typing line (different wording + style vs reference) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+ENiGMA-101.;Aspiring+Developer+%7C+Always+learning.;Web+%2B+Python+%2B+Databases+%2B+UI%2FUX.;Turning+ideas+into+projects+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Hamdil Hasan;Aspiring+Developer+%7C+Always+learning.;Web+%2B+Python+%2B+Databases+%2B+UI%2FUX.;Turning+ideas+into+projects+one+commit+at+a+time." alt="Typing SVG" />
 
   <br/><br/>
 
@@ -33,7 +33,7 @@ Theme: Neon / Cyber (unique layout + colors)
 
 ---
 
-## Tech Stack (primary)
+## Tech Stack
 <div align="center">
 
   <!-- “Skill icons” row (different from reference: no duplicate shields + icons mix) -->
@@ -43,12 +43,12 @@ Theme: Neon / Cyber (unique layout + colors)
 
 ---
 
-## Toolbox (what I use)
+## Toolbox
 <div align="left">
 
-- **Editors/IDEs:** VS Code, (optional) IntelliJ / Eclipse  
+- **Editors/IDEs:** VS Code(most), IntelliJ / Eclipse  
 - **Design:** Figma, Canva  
-- **Workflow:** Git + GitHub, README tooling, project-based learning  
+- **Workflow:** Git + GitHub, README tooling, project-based learning, notepad
 - **Habits:** clean commits, readable docs, consistent practice  
 
 </div>
@@ -75,7 +75,7 @@ Theme: Neon / Cyber (unique layout + colors)
 ## Achievements
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ENiGMA-101&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ENiGMA-101&theme=onestar&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
