@@ -100,8 +100,7 @@ Pin your best repos via GitHub → **Profile → Customize your pins**.
 
 ---
 
-## Contribution Snake (optional but looks great)
-> This requires a GitHub Action to generate the SVG into an `output/` branch.
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ENiGMA-101/ENiGMA-101/output/github-snake-dark.svg" />
